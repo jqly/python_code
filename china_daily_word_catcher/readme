@@ -1,0 +1,7 @@
+you can first download a file contains words you know, the format should like 'words_you_know.txt' in subdirectory 'words_you_know'.
+
+Default file is about cet-4 vocabulary, so word that shows up in this file will be wiped out from the final output.
+
+Once set up this file, you can use ParserMan to automatically analyse words used by chinadaily in 'http://www.chinadaily.com.cn/rss/'.
+
+we can see that output is about 6000 words. So i think you can read chinadaily on web without difficulty.
